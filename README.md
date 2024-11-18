@@ -1,4 +1,4 @@
-Fingoal, Final Capstone Project
+<h1>Fingoal, Final Capstone Project</h1>
 
 TeamID :C242-PS265
  
